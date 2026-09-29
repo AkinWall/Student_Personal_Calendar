@@ -1,6 +1,6 @@
-# Student_Personal_Calendar
+# The Gallifreyan Student Scheduler
 
-Project Title: Student Personal Calendar
+Project Title: The Gallifreyan Student Scheduler
 
 Project Members: Nathaniel Kirkpatrick, Chrissy Nixon
 
